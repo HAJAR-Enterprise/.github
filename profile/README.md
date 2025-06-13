@@ -1,7 +1,7 @@
 ## HAJAR
 HAJAR (Hapus Judi Anti Ribet) adalah platform web berbasis AI yang dirancang untuk memerangi penyebaran konten judi online dengan mendeteksi dan menandai komentar bernuansa judi di YouTube. Dengan integrasi mulus bersama model bahasa canggih, HAJAR memberdayakan kreator konten dan komunitas digital untuk menjaga ruang online yang lebih bersih, aman, dan bertanggung jawab—tanpa ribet.
 <p align="center">
-  <img src="https://raw.githubusercontent.com//.github/refs/heads/main/profile/hajar-logo.png" width="25%" />
+  <img src="https://raw.githubusercontent.com/hajar-enterprise/.github/main/profile/logo-hajar.png" width="25%" />
 </p>
 
 
